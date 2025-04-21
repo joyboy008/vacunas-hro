@@ -27,19 +27,21 @@ Este es un proyecto web sencillo desarrollado con Angular, que permite la gesti�
 
 
 ⚙️ Instalación
+Clona el repositorio:
 
-    Clona el repositorio:
-
+```
 git clone https://github.com/tuusuario/angular-vacunas.git
 cd angular-vacunas
+```
 
-    Instala las dependencias:
+Instala las dependencias:
 ```
 npm install
 ```
-    Ejecuta el servidor de desarrollo:
+
+Ejecuta el servidor de desarrollo:
 ```
-ng serve
+ng serve -o
 ```
 
 📝 Notas
@@ -62,5 +64,5 @@ ng serve
 
 👤 Autor
 
-Desarrollado por [JoyBoy008]
-📧 Contacto: m.r.08@outlook.com
+    Desarrollado por [JoyBoy008]
+    Contacto: m.r.08@outlook.com
