@@ -30,7 +30,7 @@ Este es un proyecto web sencillo desarrollado con Angular, que permite la gesti√
 Clona el repositorio:
 
 ```
-git clone https://github.com/tuusuario/angular-vacunas.git
+git clone https://github.com/joyboy008/vacunas-hro
 cd angular-vacunas
 ```
 
